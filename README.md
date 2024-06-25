@@ -1,0 +1,2 @@
+In this exercise I will practice the HTML contents of TOP that I have learned so far and reproduce them to the best of my knowledge and belief. Furthermore, I will expand my knowledge of Git and practice it as well. 
+The project is to create a web page on which recipes are displayed, which are located on different html pages.
